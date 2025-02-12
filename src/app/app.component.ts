@@ -9,5 +9,5 @@ import { HeaderComponent } from '../components/header/header.component';
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title = 'first-angular-app';
+  title = 'easy-task';
 }
